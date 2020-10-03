@@ -3,7 +3,10 @@
  * Available via the MIT or new BSD license.
  * see: http://github.com/gartz/html for details
  */
-/*jslint regexp: true */
+/*
+this is a comment  contribution
+#hacktoberfest2020
+jslint regexp: true */
 /*global define: false */
 
 define(['text'], function (text) {
